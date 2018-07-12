@@ -94,3 +94,4 @@ MIT, see [LICENSE](https://github.com/mBeierl/react-canvas-draw/blob/master/LICE
 [coveralls-badge]: https://img.shields.io/coveralls/mBeierl/react-canvas-draw/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/mBeierl/react-canvas-draw
 # react-canvas-draw
+# react-canvas-draw
